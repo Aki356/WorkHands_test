@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
+  "overrides": {
+    "@esbuild/*": "0.21.5",
+    "rollup": "^4.22.0"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
