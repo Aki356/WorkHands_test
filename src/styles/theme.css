@@ -1,0 +1,15 @@
+:root{
+  --c-bg:#ffffff;
+  --c-ink:#101828;
+  --c-muted:#98A2B3;
+  --c-brd:#EAECF0;
+  --c-accent:#ef9115;
+  --c-accent-soft:rgba(239,145,21,.10);
+  --c-accent-hover:rgba(239,145,21,.3);
+  --c-today:#03988e;
+  --r:16px;
+  --shadow:0 8px 22px rgba(16,24,40,.06);
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
